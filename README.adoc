@@ -1,7 +1,13 @@
-== Spring Boot Multi-tenant demo
+= Overview
+
+== Spring Boot Multi-Tenant Demo
 
 This repository contains the sources for the blogpost about Spring Boot multi-tenancy.
 If you want to know more, go read my weblog ;-)
+
+== Status
+
+Integrate with JWT and Security to avoid the boilerplate coding for every request to set the context.
 
 == Compiling
 
