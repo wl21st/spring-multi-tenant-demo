@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MultitenantDemoApplication {
+public class MultiTenantDemoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MultitenantDemoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MultiTenantDemoApplication.class, args);
+    }
 }
